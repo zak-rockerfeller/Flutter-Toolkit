@@ -2,15 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
+GraphQL is a query language for your API in which clients can specify the structure of the data they need, and the server will return only the requested data. It allows for more efficient and flexible communication between the client and the server, as the client can request exactly what it needs and nothing more.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In Flutter, GraphQL can be used to interact with a GraphQL server from a Flutter app. There are several packages available that provide a simple and intuitive API for making queries, mutations, and subscriptions to a GraphQL server. These packages also provide features such as automatic caching, offline support, and real-time subscriptions.
